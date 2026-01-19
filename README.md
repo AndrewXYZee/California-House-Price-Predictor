@@ -9,7 +9,7 @@ Pandas and numpy used to modify data/ create features.
 Scikit-learn and joblib to create model.  
 Streamlit to create an app.  
   
-Model accuracy with RAW data [see_raw_model](model_raw/train_model_raw.py):  
+Model accuracy with RAW data ([see_raw_model](model_raw/train_model_raw.py)):  
 RMSE 0.7456  
 R2: 0.5758  
   
