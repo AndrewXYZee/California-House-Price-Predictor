@@ -1,5 +1,5 @@
 # California-House-Price-Predictor
-ML project to predict median house value in California district using California Housing dataset.
+ML project to predict median house value in California district using California Housing dataset.  
 Try it out: https://andrewxyzee-california-house-price-predictor.streamlit.app/
 ### Demo
 ![California-House-demo](media/demo.gif)
